@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valentelucass&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Estatísticas do GitHub de Lucas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=valentelucass&locale=pt-br&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Estatísticas do GitHub de Lucas"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentelucass&layout=compact&langs_count=7&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Linguagens Mais Usadas por Lucas"/>
 </p>
 
