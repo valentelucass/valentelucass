@@ -1,39 +1,30 @@
-# Olá! Eu sou o Lucas Andrade.
+# Lucas Andrade
 <p align="center">
   <a href="https://github.com/valentelucass">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=7957D5&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java+em+Forma%C3%A7%C3%A3o;Focado+em+Sistemas+Robustos+e+Seguros;Transformando+aprendizado+em+resultados." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Apaixonado+por+Tecnologia;Focado+em+Soluções+Robustas" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center"> 
-  <a href="mailto:seu-email-aqui@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-7159C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[SEU-LINK-DO-LINKEDIN-AQUI]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="center">
+  <a href="mailto:lucasmac.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/dev-lucasandrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/valentelucass" target="_blank"><img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/valentelucass">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valentelucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=7957D5&border_color=7159C1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentelucass&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&text_color=7957D5&border_color=7159C1"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=valentelucass&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Estatísticas do GitHub de Lucas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentelucass&layout=compact&langs_count=7&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Linguagens Mais Usadas por Lucas"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valentelucass&bg_color=0D1117&color=FFF&line=00BFFF&point=4682B4&area=true&hide_border=true" alt="Gráfico de Atividade de Lucas"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-Sou focado no meu futuro — e acredito que o conhecimento em tecnologia é a ponte para chegar onde quero.
-
-Estou me desenvolvendo como programador Java, aplicando Programação Orientada a Objetos, controle de fluxo e boas práticas de codificação em projetos práticos.
-
-Tenho interesse genuíno por Segurança da Informação e Desenvolvimento de Sistemas Robustos, porque sei que criar soluções seguras é essencial para qualquer software de qualidade.
-
-Com organização, disciplina e curiosidade constante, busco evoluir todos os dias para transformar aprendizado em resultados, e resultados em novas oportunidades.
-
----
-
-## ⚙️ Meu Arsenal de Tecnologias
+### ⚙️ Meu Arsenal de Tecnologias
 
 #### 🚀 Focado em:
 * **Java** — Minha base sólida para Programação Orientada a Objetos, lógica e projetos práticos.
@@ -52,16 +43,17 @@ Com organização, disciplina e curiosidade constante, busco evoluir todos os di
 
 ---
 
-## 💻 Projeto em Destaque
+### 💻 Projeto em Destaque
 
 **[Simulador de Caixa Eletrônico em Java](https://github.com/valentelucass/programacao_orientada_objeto)**
 > Um projeto prático para aplicar conceitos de POO em Java, com menu interativo, sistema de login e operações bancárias básicas como depósito, saque e consulta de saldo. Foi fundamental para solidificar meu entendimento sobre encapsulamento e interação entre objetos.
 
 ---
 
-## ⚡ Interesses Pessoais
-- Gosto de socializar, conhecer novas pessoas e passar tempo com amigos.
-- Nas horas vagas, sou jogador casual e grande fã de filmes de ficção científica.
+### ⚡ Interesses Pessoais
+- 🤝 Gosto de socializar, conhecer novas pessoas e passar tempo com amigos.
+- 🎮 Nas horas vagas, sou jogador casual.
+- 🎬 Grande fã de filmes de ficção científica.
 
 ---
 
