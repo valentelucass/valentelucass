@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lucasmac.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/dev-lucasandrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/valentelucass" target="_blank"><img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="(https://portfolio-weld-seven-53bfjvohip.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:lucasmac.dev@gmail.com" target="_blank"><img src="https://forthebadge.com/images/badges/official-mail.svg" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/dev-lucasandrade/" target="_blank"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="LinkedIn" style="background-color: #0A66C2;"></a>
+  <a href="https://instagram.com/valentelucass" target="_blank"><img src="https://forthebadge.com/images/badges/instagram.svg" alt="Instagram"></a>
+  <a href="https://portfolio-weld-seven-53bfjvohip.vercel.app/" target="_blank"><img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="Website"></a>
 </p>
 
 ---
