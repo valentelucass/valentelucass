@@ -1,7 +1,7 @@
 # Olá, visitante! Sou o Lucas Andrade 👋
 <p align="center">
   <a href="https://github.com/valentelucass">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end+JAVA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack" alt="Typing SVG" />
   </a>
 </p>
 
