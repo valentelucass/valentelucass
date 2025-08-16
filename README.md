@@ -54,10 +54,10 @@
 
 ### 💻 Projeto Destaque
 
-**[Home Service](https://github.com/valentelucass/home-service)**  
-Plataforma para conectar clientes e profissionais de serviços. MVP em 3 dias.  
-Tecnologias: Node.js, Express, Sequelize, PostgreSQL.  
-[Demo](https://homeservice-production.up.railway.app/) | [Código](https://github.com/valentelucass/home-service)
+**[Portfólio Pessoal](https://portfolio-weld-seven-53bfjvohip.vercel.app/)**  
+Site portfólio que exibe minhas habilidades, projetos e experiência profissional. Carrega dinamicamente skills e projetos do GitHub, destacando trabalhos como Home Service e Easy Rake.  
+Tecnologias: Node.js, Express, MySQL, PHP, JavaScript, HTML, CSS.  
+[Demo](https://portfolio-weld-seven-53bfjvohip.vercel.app/)
 
 ---
 
