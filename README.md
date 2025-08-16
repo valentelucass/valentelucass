@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas. Foco em fullstack com Node.js, Express e front-end basics. Transição de carreira após 4 anos em gestão e empreendedorismo.
+  Estudante de Análise e Desenvolvimento de Sistemas. Foco em back-end com Node.js e Express. Transição de carreira após 4 anos em gestão e empreendedorismo.
 </p>
 
 <p align="center">
@@ -19,15 +19,9 @@
 
 ---
 
-### 🌐 Linguagens Mais Usadas
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=valentelucass&locale=pt-br&show_icons=true&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Estatísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentelucass&layout=compact&langs_count=6&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Linguagens"/>
 </p>
 
 ---
@@ -38,17 +32,14 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" alt="Sequelize"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-- **Foco:** Fullstack development com APIs RESTful e interfaces simples.
-- **Experiência:** Node.js, Express, HTML/CSS/JS, bancos de dados relacionais, Git.
-- **Próximos:** NestJS, React, DevOps, algoritmos.
+- **Foco:** Back-end com APIs RESTful.
+- **Experiência:** Node.js, Express, bancos de dados relacionais, Git.
+- **Próximos:** NestJS, DevOps, algoritmos.
 
 ---
 
