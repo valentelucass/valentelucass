@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas. Foco em back-end com Node.js e Express. Transição de carreira após 4 anos em gestão e empreendedorismo.
+  Estudante de ADS. Transição de carreira após 4 anos em gestão e empreendedorismo.
 </p>
 
 <p align="center">
