@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
 
-  <!-- DevOps / Ferramentas -->
+  <!-- Ferramentas -->
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="60" height="60"/>
