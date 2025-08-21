@@ -29,22 +29,22 @@
 ### ⚙️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="notion" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=apple" alt="apple" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=notion" alt="notion" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=apple" alt="apple" width="40" height="40"/>
 </p>
 
 - **Foco:** Back-end com APIs RESTful.
