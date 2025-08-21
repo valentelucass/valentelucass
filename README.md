@@ -29,19 +29,19 @@
 ### ⚙️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30"/>
 </p>
 
 - **Foco:** Back-end com APIs RESTful.
