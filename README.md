@@ -43,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=notion" alt="notion" width="50" height="50"/>
 </p>
 
 - **Foco:** Back-end com APIs RESTful.
