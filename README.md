@@ -29,12 +29,31 @@
 ### ⚙️ Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <!-- Front-end -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60"/>
+
+  <!-- Back-end -->
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="60" height="60"/>
+
+  <!-- Bancos de dados -->
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
+
+  <!-- DevOps / Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="60" height="60"/>
+
+  <!-- Metodologias -->
+  <img src="https://skillicons.dev/icons?i=scrum" alt="Scrum" width="60" height="60"/>
 </p>
 
 - **Foco:** Back-end com APIs RESTful.
