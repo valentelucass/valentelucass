@@ -38,7 +38,8 @@ Tecnologias: Java, Spring Boot, MySQL, RESTful APIs.
 [Demo](https://easy-rake.up.railway.app/) | [Código](https://github.com/valentelucass/easy-rake)  
 
 - **[Portfólio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)** – Portfólio pessoal mostrando projetos e habilidades.  
-Tecnologias: HTML, CSS, JavaScript, React, Vercel Hosting.  
+Tecnologias: HTML, CSS, JavaScript, React, Vercel Hosting.
+[Demo](https://portfolio-weld-seven-53bfjvohip.vercel.app/) | [Código](https://github.com/valentelucass/portfolio.git)  
 
 ### Visite meu Portfólio
 [![Website](https://img.shields.io/badge/Portfólio-4682B4?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-weld-seven-53bfjvohip.vercel.app/)
