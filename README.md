@@ -8,23 +8,24 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 
 ### Stacks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="48" height="48"/>
 </p>
+
 
 
 ### Projetos em Destaque
