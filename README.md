@@ -8,23 +8,24 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 
 ### Stacks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="50" height="50"/>
 </p>
+
 
 ### Projetos em Destaque
 - **[Home Service](https://github.com/valentelucass/home-service)** – Plataforma que conecta clientes e profissionais de serviços. MVP construído em 3 dias.  
