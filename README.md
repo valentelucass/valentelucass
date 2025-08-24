@@ -2,7 +2,7 @@
 
 ```Desenvolvedor Fullstack | JAVA, SQL & Dados | Foco em Back-end```
 
-Estudante de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) no Senac Santo Amaro, em transição de carreira após 4 anos em gestão e empreendedorismo. Apaixonado por programação, bancos de dados e transformar ideias em soluções reais.  
+Estudante de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) no Centro Universitário Senac SP, em transição de carreira após 4 anos em gestão e empreendedorismo. Apaixonado por programação, bancos de dados e transformar ideias em soluções reais.  
 
 Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@gmail.com</a>
 
