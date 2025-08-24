@@ -39,7 +39,6 @@ Tecnologias: Java, Spring Boot, MySQL, RESTful APIs.
 
 - **[Portfólio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)** – Portfólio pessoal mostrando projetos e habilidades.  
 Tecnologias: HTML, CSS, JavaScript, React, Vercel Hosting.
-
 [Demo](https://portfolio-weld-seven-53bfjvohip.vercel.app/) | [Código](https://github.com/valentelucass/portfolio.git)  
 
 ### Visite meu Portfólio
