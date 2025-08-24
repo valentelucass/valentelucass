@@ -29,17 +29,22 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 
 
 ### Projetos em Destaque
-- **[Home Service](https://github.com/valentelucass/home-service)** – Plataforma que conecta clientes e profissionais de serviços. MVP construído em 3 dias.  
-Tecnologias: Java, Spring Boot, PostgreSQL, RESTful APIs.  
-[Demo](https://homeservice-production.up.railway.app/) | [Código](https://github.com/valentelucass/home-service)  
 
-- **[Easy Rake](https://github.com/valentelucass/easy-rake)** – Sistema de gerenciamento de tarefas para pequenas equipes.  
-Tecnologias: Java, Spring Boot, MySQL, RESTful APIs.  
-[Demo](https://easy-rake.up.railway.app/) | [Código](https://github.com/valentelucass/easy-rake)  
+- **[Home Service](https://github.com/valentelucass/home-service)**  
+Plataforma que conecta clientes a profissionais de serviços. MVP desenvolvido em apenas 3 dias.  
+**Tecnologias:** Java, Spring Boot, PostgreSQL, RESTful APIs  
+[💻 Demo](https://homeservice-production.up.railway.app/) | [📂 Código](https://github.com/valentelucass/home-service)  
 
-- **[Portfólio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)** – Portfólio pessoal mostrando projetos e habilidades.  
-Tecnologias: HTML, CSS, JavaScript, React, Vercel Hosting.
-[Demo](https://portfolio-weld-seven-53bfjvohip.vercel.app/) | [Código](https://github.com/valentelucass/portfolio.git)  
+- **[Easy Rake](https://github.com/valentelucass/easy-rake)**  
+Sistema de gerenciamento de tarefas para pequenas equipes, com foco em produtividade e organização.  
+**Tecnologias:** Java, Spring Boot, MySQL, RESTful APIs  
+[💻 Demo](https://easy-rake.up.railway.app/) | [📂 Código](https://github.com/valentelucass/easy-rake)  
+
+- **[Portfólio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)**  
+Portfólio pessoal que apresenta meus projetos e habilidades como desenvolvedor.  
+**Tecnologias:** HTML, CSS, JavaScript, React, Vercel Hosting  
+[💻 Demo](https://portfolio-weld-seven-53bfjvohip.vercel.app/) | [📂 Código](https://github.com/valentelucass/portfolio.git)  
+
 
 ### Visite meu Portfólio
 [![Website](https://img.shields.io/badge/Portfólio-4682B4?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-weld-seven-53bfjvohip.vercel.app/)
