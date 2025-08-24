@@ -1,74 +1,35 @@
-# Olá! Sou o Lucas Andrade 👋
+## 👨🏻‍💻 **Lucas Andrade**
 
-<p align="center">
-  <a href="https://github.com/valentelucass">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack" alt="Typing SVG" />
-  </a>
-</p>
+```Fullstack Developer | JAVA, SQL & Data | Back-end Focus```
 
-<p align="center">
-  Estudante de ADS. Transição de carreira após 4 anos em gestão e empreendedorismo.
-</p>
+Estudante de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) no Senac Santo Amaro, em transição de carreira após 4 anos em gestão e empreendedorismo. Apaixonado por programação, bancos de dados e transformar ideias em soluções reais.  
 
-<p align="center">
-  <a href="mailto:lucasmac.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/dev-lucasandrade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/valentelucass"><img src="https://img.shields.io/badge/Instagram-405DE6?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://portfolio-weld-seven-53bfjvohip.vercel.app/"><img src="https://img.shields.io/badge/Website-4682B4?style=flat&logo=google-chrome&logoColor=white" alt="Site"></a>
-</p>
+Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@gmail.com</a>
 
----
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=java,python,php,sql,mysql,postgres,mongodb,git,github,figma,notion,apple)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valentelucass&locale=pt-br&show_icons=true&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Estatísticas"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentelucass&layout=compact&langs_count=6&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&border_color=4682B4" alt="Linguagens"/>
-</p>
+### Featured Projects
+- **[Home Service](https://github.com/valentelucass/home-service)** – Platform connecting clients and service professionals. MVP built in 3 days.  
+Technologies: Java, Spring Boot, PostgreSQL, RESTful APIs.  
+[Demo](https://homeservice-production.up.railway.app/) | [Code](https://github.com/valentelucass/home-service)  
 
----
+- **[Easy Rake](https://github.com/valentelucass/easy-rake)** – Task management system for small teams.  
+Technologies: Java, Spring Boot, MySQL, RESTful APIs.  
+[Demo](https://easy-rake.up.railway.app/) | [Code](https://github.com/valentelucass/easy-rake)  
 
-### ⚙️ Tecnologias
+- **[Portfolio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)** – Personal portfolio showcasing projects and skills.  
+Technologies: HTML, CSS, JavaScript, React, Vercel Hosting.  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="notion" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=apple" alt="apple" width="40" height="40"/>
-</p>
+### Visit my Portfolio
+[![Website](https://img.shields.io/badge/Portfolio-4682B4?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-weld-seven-53bfjvohip.vercel.app/)
 
-- **Foco:** Back-end com APIs RESTful.
-- **Experiência:** Node.js, Express, bancos de dados relacionais, Git.
-- **Próximos:** NestJS, DevOps, algoritmos.
+### Languages
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Português Nativo  
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Inglês Técnico  
 
----
-
-### 💻 Projeto Destaque
-
-**[Home Service](https://github.com/valentelucass/home-service)**  
-Plataforma para conectar clientes e profissionais de serviços. MVP em 3 dias.  
-Tecnologias: Node.js, Express, Sequelize, PostgreSQL.  
-[Demo](https://homeservice-production.up.railway.app/) | [Código](https://github.com/valentelucass/home-service)
-
----
-
-### ⚡ Interesses
-- Socializar e amigos.
-- Jogos casuais.
-- Ficção científica.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/valentelucass/valentelucass/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+### Interests
+- Data and Back-end Development  
+- Socializing and friends  
+- Casual gaming  
+- Science fiction  
