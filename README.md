@@ -35,10 +35,9 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 
 [📂 Código](https://github.com/valentelucass/script-etl-automacao)
 
-- **[Easy Rake](https://github.com/valentelucass/easy-rake)**  
-Sistema de gerenciamento de tarefas para pequenas equipes, com foco em produtividade e organização.  
-**Tecnologias:** Java, Spring Boot, MySQL, RESTful APIs  
-[💻 Demo](https://easy-rake.up.railway.app/) | [📂 Código](https://github.com/valentelucass/easy-rake)  
+- **[RPA - AUTOMAÇÃO TMS](https://github.com/valentelucass/rpa-tms)** Bot para automação de processos em sistemas de transporte. Executa autenticação, download de relatórios e scraping de dados de minutas, eliminando intervenção manual repetitiva.  
+**Tecnologias:** Java, Selenium WebDriver, Spring Boot  
+[📂 Código](https://github.com/valentelucass/rpa-tms)
 
 - **[Portfólio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)**  
 Portfólio pessoal que apresenta meus projetos e habilidades como desenvolvedor.  
