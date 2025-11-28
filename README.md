@@ -30,10 +30,10 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 
 ### Projetos em Destaque
 
-- **[ETL - INTEGRAÇÃO ESL CLOUD](https://github.com/valentelucass/script-etl-automacao)**  
-Pipeline automatizado para extração e tratamento de dados de etiquetas eletrônicas via API ESL Cloud.Garante a ingestão e persistência estruturada de informações de precificação e hardware.
+### [ETL - INTEGRAÇÃO ESL CLOUD](https://github.com/valentelucass/script-etl-automacao)
+> Pipeline automatizado para extração e tratamento de dados de etiquetas eletrônicas via API ESL Cloud. Garante a ingestão e persistência estruturada de informações de precificação e hardware.
 
-- [📂 Código](https://github.com/valentelucass/script-etl-automacao)  
+[📂 Código](https://github.com/valentelucass/script-etl-automacao)
 
 - **[Easy Rake](https://github.com/valentelucass/easy-rake)**  
 Sistema de gerenciamento de tarefas para pequenas equipes, com foco em produtividade e organização.  
