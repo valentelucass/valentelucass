@@ -35,8 +35,9 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 
 [📂 Código](https://github.com/valentelucass/script-etl-automacao)
 
-- **[RPA - AUTOMAÇÃO TMS](https://github.com/valentelucass/rpa-tms)** Bot para automação de processos em sistemas de transporte. Executa autenticação, download de relatórios e scraping de dados de minutas, eliminando intervenção manual repetitiva.  
-**Tecnologias:** Java, Selenium WebDriver, Spring Boot  
+### [RPA - AUTOMAÇÃO TMS](https://github.com/valentelucass/rpa-tms)
+> Bot para automação de processos em sistemas de transporte. Executa autenticação, download de relatórios e scraping de dados de minutas, eliminando intervenção manual repetitiva.  
+
 [📂 Código](https://github.com/valentelucass/rpa-tms)
 
 - **[Portfólio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)**  
