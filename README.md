@@ -44,7 +44,7 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 > Portfólio pessoal que apresenta meus projetos e habilidades como desenvolvedor.
 
 [💻 Demo](https://portfolio-weld-seven-53bfjvohip.vercel.app/) | [📂 Código](https://github.com/valentelucass/portfolio.git)  
-
+---
 
 ### Visite meu Portfólio
 [![Website](https://img.shields.io/badge/Portfólio-4682B4?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-weld-seven-53bfjvohip.vercel.app/)
