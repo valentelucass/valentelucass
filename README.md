@@ -40,9 +40,9 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 
 [📂 Código](https://github.com/valentelucass/rpa-tms)
 
-- **[Portfólio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)**  
-Portfólio pessoal que apresenta meus projetos e habilidades como desenvolvedor.  
-**Tecnologias:** HTML, CSS, JavaScript, React, Vercel Hosting  
+### [Portfólio](https://portfolio-weld-seven-53bfjvohip.vercel.app/)  
+> Portfólio pessoal que apresenta meus projetos e habilidades como desenvolvedor.
+
 [💻 Demo](https://portfolio-weld-seven-53bfjvohip.vercel.app/) | [📂 Código](https://github.com/valentelucass/portfolio.git)  
 
 
