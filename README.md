@@ -27,7 +27,7 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 </p>
 
 
-
+---
 ### Projetos em Destaque
 
 ### [ETL - INTEGRAÇÃO ESL CLOUD](https://github.com/valentelucass/script-etl-automacao)
