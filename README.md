@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 **Lucas Andrade**
 
-```Desenvolvedor Fullstack | JAVA, SQL & Dados | Foco em Back-end.```
+```Desenvolvedor Fullstack | JAVA, SQL & Dados | Foco em Back-end```
 
 Estudante de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) no Centro Universitário Senac SP, em transição de carreira após 4 anos em gestão e empreendedorismo. Apaixonado por programação, bancos de dados e transformar ideias em soluções reais.  
 
