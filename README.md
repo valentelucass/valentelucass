@@ -48,7 +48,7 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 ---
 
 ### Visite meu Portfólio
-[![Website](https://img.shields.io/badge/Portfólio-4682B4?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-weld-seven-53bfjvohip.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfólio-4682B4?style=flat&logo=google-chrome&logoColor=white)](https://lucasandrade.vercel.app/)
 
 ### Idiomas
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Português Nativo  
