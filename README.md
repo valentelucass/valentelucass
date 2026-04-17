@@ -8,22 +8,23 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
 
 ### Stacks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" style="display:inline-block;" />
+  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" style="display:inline-block;" />
 </p>
+
 
 
 
