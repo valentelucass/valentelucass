@@ -7,7 +7,7 @@ Estudante de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas
 Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@gmail.com</a>
 
 ### Stacks
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48"/>
