@@ -7,23 +7,24 @@ Estudante de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas
 Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@gmail.com</a>
 
 ### Stacks
-<p style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48"/>
 </p>
+
 
 
 
