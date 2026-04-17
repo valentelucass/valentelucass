@@ -21,7 +21,6 @@ Contato: <a href="mailto:lucasmac.dev@gmail.com" target="__blank">lucasmac.dev@g
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/>
 </p>
